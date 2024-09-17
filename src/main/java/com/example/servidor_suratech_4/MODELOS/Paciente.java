@@ -6,15 +6,15 @@ import java.time.LocalDate;
 
 public class Paciente {
 
-    Integer id;
-    String nombre;
-    Integer edad;
-    LocalDate fechaNacimiento
-    String documento;
-    String telefono;
-    Integer copago;
-    String email;
-    String direccion;
-    String ips;
-    String medicoFamilia;
+    private Integer id;
+    private String nombre;
+    private Integer edad;
+    private LocalDate fechaNacimiento;
+    private String documento;
+    private String telefono;
+    private Integer copago;
+    private String email;
+    private String direccion;
+    private String ips;
+    private String medicoFamilia;
 }
